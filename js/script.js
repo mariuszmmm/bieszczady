@@ -1,8 +1,14 @@
-let buttonElement = document.querySelector(".footer__button");
-let bodyElement = document.querySelector(".body");
-let buttonTextElement = document.querySelector(".js-buttonText");
+{
+    const clickChangeBackground = () => {
+        const bodyElement = document.body;
+        const buttonTextElement = document.querySelector(".js-buttonText");
+        bodyElement.classList.toggle("body__customBackground");
+        buttonTextElement.innerText = bodyElement.classList.contains("body__customBackground") ? "ciemne" : "jasne";
+    }
 
-buttonElement.addEventListener("click", () => {
-    bodyElement.classList.toggle("body__customBackground");
-    buttonTextElement.innerText = bodyElement.classList.contains("body__customBackground") ? "ciemne" : "jasne";
-});
+    const init = () => {
+        const buttonElement = document.querySelector(".js-button");
+        buttonElement.addEventListener("click", clickChangeBackground);
+    }
+    init();
+}
