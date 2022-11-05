@@ -1,0 +1,28 @@
+.navigation {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.navigation__list {
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.navigation__item {
+    margin-top: 15px;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
+
+.navigation__link:hover {
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.navigation__link:active {
+    font-weight: 400;
+}
