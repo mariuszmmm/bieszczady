@@ -2,10 +2,10 @@
 
 ## *Demo*
 
-https://mariuszmmm.github.io/homepage/
+https://mariuszmmm.github.io/bieszczady/
 
 
-![Alternatywny tekst](/images/Bieszczady.jpg)
+![Bieszczady](/images/bieszczady.jpg)
 
 
 
