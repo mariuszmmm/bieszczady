@@ -10,7 +10,7 @@ Check it out:     -->    https://mariuszmmm.github.io/bieszczady/     <--
 #
 ![Bieszczady](/images/bieszczady.jpg)
 
-## Opis
+## Do you know these places?
 
 - Jezioro Solińskie
 - Lutowiska
@@ -21,7 +21,7 @@ Check it out:     -->    https://mariuszmmm.github.io/bieszczady/     <--
 - Połonina Wetlińska
 - Osadzki Wierch
 
-
+#
 ## Technologies Used
   
 - Javascript ES6
