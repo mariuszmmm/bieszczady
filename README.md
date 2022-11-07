@@ -1,10 +1,11 @@
 # **History and description of interesting places in the Bieszczady Mountains**
 
 
-The website contains information about interesting places in the Bieszczady Mountains.  Gives the height of the terrain above sea level.
-It presents pictures with picturesque landscapes. 
-Please see the links section for more information. 
-The functionality of this page is to change the background. 
+The website contains information about interesting places in the Bieszczady Mountains.  
+Gives the height of the terrain above sea level.  
+It presents pictures with picturesque landscapes.  
+Please see the links section for more information.  
+The functionality of this page is to change the background.  
 #
 Check it out:     -->    https://mariuszmmm.github.io/bieszczady/     <--
 #
@@ -24,6 +25,7 @@ Check it out:     -->    https://mariuszmmm.github.io/bieszczady/     <--
 
 
 
+#
 #
 ## Technologies Used
   
