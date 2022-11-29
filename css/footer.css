@@ -19,3 +19,7 @@
     border-radius: 5px;
     margin: 30px auto 100px;
 }
+
+.footer__button:hover {
+    cursor: pointer;
+}
