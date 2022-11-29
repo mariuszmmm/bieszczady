@@ -15,14 +15,13 @@
 .navigation__link {
     text-decoration: none;
     color: black;
-    font-weight: 400;
 }
 
 .navigation__link:hover {
     text-decoration: underline;
-    font-weight: 700;
 }
 
 .navigation__link:active {
-    font-weight: 400;
+    text-decoration: none;
+    font-weight: 700;
 }

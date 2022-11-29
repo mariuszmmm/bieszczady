@@ -32,14 +32,13 @@
 .aside__link {
     text-decoration: none;
     color: black;
-    font-weight: 400;
 }
 
 .aside__link:hover {
     text-decoration: underline;
-    font-weight: 700;
 }
 
 .aside__link:active {
-    font-weight: 400;
+    text-decoration: none;
+    font-weight: 700;
 }
