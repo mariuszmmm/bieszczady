@@ -23,6 +23,11 @@
     vertical-align: middle;
 }
 
+.table__cell--img{
+  width: 200px;
+  ratio-aspect: 16/9;
+}
+
 .table__cell--header {
     background-color: #7fd25c;
     font-weight: 400;
