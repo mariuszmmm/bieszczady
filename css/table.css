@@ -26,6 +26,9 @@
 .table__cell--img{
   width: 200px;
   aspect-ratio: 16/9;
+  border: solid 1px black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px black;
 }
 
 .table__cell--header {
